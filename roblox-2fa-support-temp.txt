@@ -1,0 +1,17 @@
+Subject: Lost access to 2-Step Verification / Can’t log in
+Hello Roblox Support,
+I am locked out of my account because I no longer have access to my 2-Step Verification method.
+Account details:
+
+Username: [Your Roblox username]
+Email on the account: [Your email]
+Original email used when creating the account (if different): [Original email]
+Phone number linked (if any): [Your phone number]
+
+What happened:
+
+I lost access to my authenticator app / phone / recovery codes and can no longer generate or receive the 2-Step Verification codes. I am unable to log in.
+I still have access to the email associated with the account (or the original email / billing email from my first purchase).
+Please help me recover my account and either disable the current 2-Step Verification or guide me through resetting it so I can regain access.
+Thank you for your help.
+[Your full name or preferred name]
